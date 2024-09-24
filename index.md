@@ -4,3 +4,6 @@ This is a change made on the new-feature branch.
 ```javascript
 var myVar = "Hello, world!";
 ```
+   - [ ] Turn on GitHub Pages
+   - [ ] Outline my portfolio
+   - [ ] Introduce myself to the world
